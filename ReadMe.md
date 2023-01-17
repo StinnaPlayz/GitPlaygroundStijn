@@ -6,6 +6,6 @@ There are various things to interact with:
 * `Setup.exe` - A windows executable that sets up the repository with various files to practice your git with. The source code can be found [here](https://gist.github.com/Pheubel/f62673952fb1e04bf658809775fcfbbc).
 
 # Instructions
-0. Fork this repository, this will allow you to have your own copy.
+0. Fork this repository, this will allow you to have your own copy. You can find the fork button in the top right.
 1. Run `Setup.exe`, it will create two folders; `AttributePractice` and `IgnorePractice`, inside are a couple of files to help demonstrate what effects the current git files have. `Setup.exe` only works on windows, you can easily enough add your own files to mess around with it.
 2. Experiment (o゜▽゜)o☆
