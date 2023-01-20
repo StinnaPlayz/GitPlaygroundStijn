@@ -1,0 +1,9 @@
+# Here you can put patterns for files that should be treated in a non standard way.
+# Remember that you can look at https://git-scm.com/docs/gitattributes#_examples for examples of how to use it
+
+* text=auto
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.exe binary
