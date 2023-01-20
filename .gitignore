@@ -1,4 +1,4 @@
 # Here you can put patterns to exclude certain files or folders from the git repository.
-!.gitignore\includeMe.md
-!.gitignore\users\ReadMe.md
+!IgnorePractice\includeMe.md
+!IgnorePractice\users\ReadMe.md
 # Remember that you can refer to https://git-scm.com/docs/gitignore#_pattern_format to see how you can format your patterns.
